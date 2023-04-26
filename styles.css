@@ -1,0 +1,74 @@
+/* styles.css */
+
+/* general styles */
+
+body {
+    text-align: center;
+    align-items: center;
+    background-color: hsl(190, 27%, 67%);
+}
+
+button {
+    background-color: hsl(190, 37%, 57%);
+    font-weight: bold;
+    font-size: 18px;
+    color: aliceblue;
+    border: 1.5px solid #424242;
+    align-items: center;
+    width: 280px;
+    height: 60px;
+}
+
+.return {
+    font-size: 15px;
+    width: 100px;
+    height: 40px;
+}
+
+.list {
+    display: inline-block;
+    text-align: left;
+}
+
+.div {
+    
+}
+
+/* index styles */
+
+#odin {
+    width: 380px;
+    height: auto;
+}
+
+
+.header.subsection {
+    font-size: 18px;
+}
+
+.header {
+    font-size: 55px;
+    font-weight: 1000;
+    font-family: cursive;
+}
+
+/* taco styles */
+
+#taco {
+    width: 380px;
+    height: auto;
+}
+
+/* quesedilla styles */
+
+#queso {
+    width: 380px;
+    height: auto;
+}
+
+/* mexbean styles */
+
+#mexbean {
+    width: 500px;
+    height: auto;
+}
